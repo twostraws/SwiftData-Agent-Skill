@@ -7,7 +7,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/iOS-26+-2980b9.svg" alt="Designed for iOS 26 and later." />
     <img src="https://img.shields.io/badge/swift-6.2+-8e44ad.svg" alt="Designed for Swift 6.2 and later." />
-    <a href="https://twitter.com/twostraws">
+    <a href="https://x.com/twostraws">
         <img src="https://img.shields.io/badge/Contact-@twostraws-95a5a6.svg?style=flat" alt="Twitter: @twostraws" />
     </a>
 </p>
@@ -87,7 +87,7 @@ Please ensure you abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-SwiftData Pro was originally created by [Paul Hudson](https://twitter.com/twostraws), who writes [free Swift tutorials over at Hacking with Swift](https://www.hackingwithswift.com). It’s available under the [MIT License](LICENSE), which permits commercial use, modification, distribution, and private use.
+SwiftData Pro was originally created by [Paul Hudson](https://x.com/twostraws), who writes [free Swift tutorials over at Hacking with Swift](https://www.hackingwithswift.com). It’s available under the [MIT License](LICENSE), which permits commercial use, modification, distribution, and private use.
 
 
 <p align="center">
