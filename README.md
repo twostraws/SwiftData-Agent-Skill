@@ -25,6 +25,17 @@ Find more agent skills for Swift and Apple platform development at [Swift Agent 
 
 ## Installing SwiftData Pro
 
+### Claude Code
+
+Add the SwiftData Pro Skill marketplace, then install the plugin:
+
+```
+/plugin marketplace add twostraws/SwiftData-Agent-Skill
+/plugin install swiftdata-pro@swiftdata-agent-skill
+```
+
+### Codex, Gemini, Cursor, and others
+
 You can install this skill into Claude Code, Codex, Gemini, Cursor, and more by using `npx`:
 
 ```bash
