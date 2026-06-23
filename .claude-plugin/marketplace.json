@@ -13,7 +13,7 @@
       "version": "1.0.0",
       "author": { "name": "Paul Hudson" },
       "homepage": "https://github.com/twostraws/SwiftData-Agent-Skill",
-      "repository": "https://github.com/austin1howard/SwiftData-Agent-Skill",
+      "repository": "https://github.com/twostraws/SwiftData-Agent-Skill",
       "license": "MIT",
       "keywords": ["swiftdata", "swift", "ios", "apple", "code-review"]
     }
